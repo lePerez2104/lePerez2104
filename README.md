@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Olá! Bem-vindo ao meu perfil 👋</h2>
+<h2 align="left">Olá! Bem-vindo(a) ao meu perfil 👋</h2>
 
 ###
 
