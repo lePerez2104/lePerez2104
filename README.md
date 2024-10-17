@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<h3 align="left">📫 Contatos:</h3>
+<h3 align="center">📫 Contatos:</h3>
 
 ###
 
