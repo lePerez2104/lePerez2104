@@ -13,6 +13,10 @@
 <br clear="both">
 
 <div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,php,c,mysql,git&theme=dark)](https://skillicons.dev)
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
