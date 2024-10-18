@@ -12,9 +12,11 @@
 
 <br clear="both">
 
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,react,php,c,mysql,git&theme=dark)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,php,c,mysql,git&theme=dark" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
