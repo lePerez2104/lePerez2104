@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Sou uma desenvolvedora Full Stack que também adora design e é apaixonada por tecnologia e inovação 😁<br>Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e sempre estou buscando aprimorar minhas habilidades e aprender cada vez mais.</p>
+<p align="left">Sou uma desenvolvedora Front-end que também adora design e é apaixonada por tecnologia e inovação 😁<br>Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas e sempre estou buscando aprimorar minhas habilidades e aprender cada vez mais.</p>
 
 ###
 
